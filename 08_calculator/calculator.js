@@ -33,6 +33,7 @@ const factorial = function (n) {
     result *= i;
   }
   return result;
+
 };
 
 // Do not edit below this line
